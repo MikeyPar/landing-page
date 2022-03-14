@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+background-color: #1F2937;
+}
+.header.p {
+    color: #F9FAF8;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    background-color: #1F2937;
+}
